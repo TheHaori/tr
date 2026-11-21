@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.hi_3_iota.twa",
+        "sha256_cert_fingerprints": ["2C:2C:B5:AB:CE:A4:2E:E0:F5:58:DE:71:F5:49:C7:62:E9:ED:36:D3:C3:DB:3A:EF:5F:F1:B8:30:BC:E7:8D:C4"]
+      }
+    }]
